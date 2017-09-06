@@ -1,0 +1,27 @@
+{
+  "_id": "automailer@1.0.0",
+  "_location": "/AutoMailer",
+  "_required": [
+    "/node-cron",
+    "nodemailer"
+  ],
+  "author": {
+    "name": "Bruno Lins da Silva",
+    "email": "blins44@gmail.com"
+  },
+  "description": "Send Email with Appointment",
+  "keywords": [
+    "node",
+    "framework",
+    "browser",
+    "client-side"
+  ],
+  "license": "MIT",
+  "main": "AutoMailer.js",
+  "name": "AutoMailer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devBrunoLins/AutoMailer.js.git"
+  },
+  "version": "1.0.0"
+}
