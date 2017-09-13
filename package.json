@@ -23,5 +23,10 @@
     "type": "git",
     "url": "git+https://github.com/devBrunoLins/AutoMailer.js.git"
   },
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "node-cron": "^1.2.1",
+    "nodemailer": "^4.1.0"
+  }
 }
