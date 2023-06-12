@@ -3,7 +3,7 @@ Send e-mail with Appointment (Envie email com hora marcada)
 
 <h2>Para usar é bem simples</h2>
 
-<h3>Na Linha 9 possui o coódigo:</h3>
+<h3>Na Linha 11 possui o coódigo:</h3>
 <code>cron.schedule('00 00 * * *'</code>
 <h>Os dois primeiros números, indicam minutos, e os outros dois indicam as horas
 .Digite sua hora e minuto, Salve o arquivo</h3>
